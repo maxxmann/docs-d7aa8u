@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-3wrn31.nagawin87rew.lat/sitemap.xml
